@@ -1,4 +1,4 @@
 remote_theme: jekyll/minima
-plugins_dir:
- -jeky11-remote-theme
-title: getplayy的博客                  
+plugins:
+  - jekyll-remote-theme
+title: getplayy的博客        
