@@ -1,2 +1,4 @@
-theme: jekyll-theme-minima
+remote_theme: jekyll/minima
+plugins:
+ -jeky11-remote-theme
 title: getplayy的博客                  
