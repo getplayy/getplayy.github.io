@@ -37,7 +37,6 @@ categories: ctf
 flag{***}
 ```
 
-*（此处配一张记事本搜到 flag 的截图）*
 
 ### 0x03 拿分
 
