@@ -56,7 +56,7 @@ fetch(location.href, {
 - `r.text()` — 把返回的网页内容读成文本
 - `document.body.innerText = t` — 把读到的文本显示在页面上
 
-*（此处配一张粘贴执行后页面显示 flag 的截图）*
+
 
 ### 0x03 拿分
 
