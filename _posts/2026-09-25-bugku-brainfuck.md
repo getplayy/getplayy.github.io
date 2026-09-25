@@ -40,7 +40,6 @@ categories: ctf
 flag{***}
 ```
 
-*（此处配一张 splitbrain 解出明文的截图）*
 
 ### 0x03 拿分
 
